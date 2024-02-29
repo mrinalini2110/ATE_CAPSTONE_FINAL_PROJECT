@@ -1,4 +1,4 @@
-Automation Testing Capstone Project
+# Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
 Name : Mrinalini
 Email : mrdharme@cisco.com
